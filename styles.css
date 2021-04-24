@@ -46,6 +46,11 @@ footer {
 	padding: 10px;
 }
 
+#projects h2 {
+	color: #69005A;
+}
+
+
 .alignleft {
 	float: left;
 	margin: 0 10px 5px 0;
@@ -61,6 +66,7 @@ h1, h2, h3 {
 h1 {
 	font-size:150%;
 	text-transform:uppercase;
+	color: #69005A;
 }
 
 header h1 {
